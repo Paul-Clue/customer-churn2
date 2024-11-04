@@ -3,7 +3,7 @@
 ## Overview
 This project implements a machine learning solution to predict customer churn using various classification algorithms. The model helps identify customers who are likely to discontinue services, enabling proactive retention strategies.
 
-## Feature
+## Features
 - Data preprocessing and exploratory data analysis
 - Implementation of multiple machine learning models:
   - XGBoost Classifier
